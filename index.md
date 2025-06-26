@@ -1,3 +1,33 @@
+<style>
+.guide-app-page {
+  /* General link and accent color */
+  --main-color: #0E4B82;
+}
+.guide-app-page h1,
+.guide-app-page h2,
+.guide-app-page h3,
+.guide-app-page h4,
+.guide-app-page h5,
+.guide-app-page h6 {
+  color: var(--main-color);
+}
+.guide-app-page a {
+  color: var(--main-color);
+  text-decoration: underline;
+}
+.guide-app-page strong {
+  color: var(--main-color);
+}
+.guide-app-page hr {
+  border: 1px solid var(--main-color);
+}
+.guide-app-page ul > li::marker {
+  color: var(--main-color);
+}
+</style>
+
+<div class="guide-app-page">
+
 # 📱 Guía de Usuario — Aplicación Móvil
 
 Bienvenido/a a la guía de usuario de la aplicación móvil **Class Room App**. Esta app está diseñada para facilitar la interacción entre estudiantes y docentes, permitiendo la gestión de clases, evaluaciones, comunicación y seguimiento del desempeño académico.
@@ -109,3 +139,5 @@ Escaneá el siguiente código QR para descargar la aplicación directamente en t
 ### Estadísticas de Desempeño
 
 - Visualizá tus avances en los cursos: tareas completadas, exámenes rendidos y progreso general.
+
+</div>
