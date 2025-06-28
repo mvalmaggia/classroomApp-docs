@@ -1,111 +1,134 @@
-# 📱 Guía de Usuario — Aplicación Móvil
+# 📱 Guía de Usuario — Aplicación Móvil *Class Room App*
 
-Bienvenido/a a la guía de usuario de la aplicación móvil **Class Room App**. Esta app está diseñada para facilitar la interacción entre estudiantes y docentes, permitiendo la gestión de clases, evaluaciones, comunicación y seguimiento del desempeño académico.
+Bienvenido/a a la guía oficial de **Class Room App**, la aplicación móvil que facilita la interacción entre estudiantes y docentes para la gestión de clases, evaluaciones, comunicación y seguimiento académico.
 
 ---
 
-## 📥 Instalación de la App
+## Tabla de Contenidos
 
-Escaneá el siguiente código QR para descargar la aplicación directamente en tu dispositivo Android:
+- [Instalación de la App](#-instalación-de-la-app)
+- [Inicio de Sesión y Registro](#-inicio-de-sesión-y-registro)
+- [Gestión de Perfil](#-gestión-de-perfil)
+- [Gestión de Clases y Cursos](#-gestión-de-clases-y-cursos)
+- [Tareas y Evaluaciones](#-tareas-y-evaluaciones)
+- [Comunicación](#-comunicación)
+- [Seguimiento y Análisis](#-seguimiento-y-análisis)
+- [Capturas de Pantalla](#-capturas-de-pantalla)
+- [Preguntas Frecuentes](#-preguntas-frecuentes)
+- [Soporte Técnico](#-soporte-técnico)
+
+---
+
+## 🔽 Instalación de la App
+
+Escaneá el siguiente código QR para descargar la app en tu dispositivo Android:
 
 ![Descarga la app escaneando este QR](qr-download.png)
 
----
-
-## 🔐 Inicio de Sesión y Registro
-
-### Registro de Usuarios
-
-- Ingresá tu nombre, correo institucional y una contraseña segura.
-- Si es necesario, recibirás un **PIN por email** para confirmar tu cuenta.
-
-### Inicio de Sesión
-
-- Podés iniciar sesión con:
-  - **Correo electrónico y contraseña**
-  - **Datos biométricos** (si tu dispositivo lo permite)
-  - **Proveedor externo (Google)**
-
-### Recupero de Contraseña
-
-- Desde la pantalla de inicio, tocá **"¿Olvidaste tu contraseña?"** y seguí las instrucciones para recuperarla vía email.
+> **Nota:** Por el momento, la app está disponible solo para Android.
 
 ---
 
-## 👤 Gestión de Perfil
+## Inicio de Sesión y Registro
 
-- Accedé a tu perfil desde el menú principal.
-- Editá tu nombre, foto de perfil y otra información personal.
-- Visualizá tu perfil y el de otros usuarios dentro de los cursos.
+- Registro de usuario e inicio de sesión con correo, biométricos o Google.
+- Recupero de contraseña por email.
 
----
-
-## 📚 Gestión de Clases y Cursos
-
-### Visualización de Cursos
-
-- Accedé al listado de cursos disponibles desde la pestaña **"Explorar cursos"**.
-- Consultá información, docentes, módulos y recursos de cada curso.
-
-### Inscripción a Cursos
-
-- Inscribite desde el botón **"Inscribirse"** en la vista del curso.
-- Agregá cursos a tu lista de **favoritos** para acceder más rápido.
-- Visualizá tus cursos favoritos desde la pestaña correspondiente.
-
-### Docentes Auxiliares
-
-- Los docentes pueden asignar ayudantes a sus cursos desde la vista de gestión.
-
-### Organización de Contenido
-
-- Los cursos están organizados por módulos.
-- Cada módulo puede incluir recursos, tareas, exámenes y foros.
+![Pantalla de inicio](home.png)
+![Pantalla de registro](course-signup.png)
+![Pantalla de inicio de sesión](home.png)
+![Recuperar contraseña](settings.png)
 
 ---
 
-## 📝 Tareas y Evaluaciones
+## Gestión de Perfil
+
+- Acceso y edición de los datos personales desde el menú principal.
+
+![Gestión de perfil](profile.png)
+
+---
+
+## Gestión de Clases y Cursos
+
+- Explorar cursos, inscribirse, favoritos, módulos y gestión docente.
+
+![Explorar cursos](courses.png)
+![Descubrir cursos](discover-course.png)
+![Vista de curso - alumno](course-enrolled.png)
+![Vista de curso - docente](course-teacher.png)
+![Vista de curso - inscripción](course-signup.png)
+![Vista de módulos alumno](module-enrolled.png)
+![Vista de módulos docente](module-teacher.png)
+![Favoritos](courses.png)
+![Gestión de docentes auxiliares](assistant-teachers.png)
+![Historial de docentes auxiliares](assistant-teachers-history.png)
+
+---
+
+## Tareas y Evaluaciones
 
 ### Para Docentes
 
-- Creá tareas y exámenes desde la vista de gestión del curso.
-- Visualizá el listado de tareas y exámenes creados.
+- Crear tareas y exámenes, ver entregas y retroalimentar.
+
+![Crear evaluación](assessments.png)
+![Evaluaciones docente](exam-teacher.png)
+![Proveer feedback](assessment-provide-feedback.png)
+![Entregas de tareas](assessment-submissions.png)
 
 ### Para Estudiantes
 
-- Accedé a las tareas y exámenes disponibles desde cada curso.
-- Completá las actividades directamente desde la app.
+- Ver tareas y exámenes, enviar entregas.
 
-### Corrección con IA
-
-- Algunas evaluaciones se corrigen automáticamente mediante inteligencia artificial.
-
-### Retroalimentación y Notas
-
-- Recibí feedback de tus entregas y consultá tus calificaciones.
+![Tareas estudiante](assessment-student.png)
+![Vista de tareas](assessments.png)
+![Enviar entrega](assessment-submissions.png)
 
 ---
 
-## 💬 Comunicación
+## Comunicación
 
-### Foro de Preguntas
+- Foro de preguntas, chat de asistencia y notificaciones.
 
-- Participá en el foro de cada curso.
-- Creá nuevas preguntas y respondé las de otros compañeros.
-
-### Chat de Asistencia
-
-- Consultá al asistente virtual en lenguaje natural sobre el uso de la app o dudas frecuentes.
-
-### Notificaciones
-
-- Recibí notificaciones push sobre nuevas tareas, mensajes o cambios en los cursos.
-- También podés recibir notificaciones por correo electrónico.
+![Foro](forum.png)
+![Chat de asistencia](chat.png)
+![Notificaciones y ajustes](settings.png)
 
 ---
 
-## 📊 Seguimiento y Análisis
+## Seguimiento y Análisis
 
-### Estadísticas de Desempeño
+- Estadísticas de desempeño, progreso y calificaciones.
 
-- Visualizá tus avances en los cursos: tareas completadas, exámenes rendidos y progreso general.
+![Estadísticas](statistics.png)
+
+---
+
+## 🖼️ Capturas de Pantalla
+
+| Funcionalidad                        | Imagen                                    |
+|--------------------------------------|--------------------------------------------|
+| Inicio                              | ![Inicio](home.png)                        |
+| Registro                            | ![Registro](course-signup.png)             |
+| Perfil                              | ![Perfil](profile.png)                     |
+| Cursos                              | ![Cursos](courses.png)                     |
+| Descubrir Cursos                    | ![Descubrir Curso](discover-course.png)    |
+| Curso Alumno                        | ![Curso Alumno](course-enrolled.png)       |
+| Curso Docente                       | ![Curso Docente](course-teacher.png)       |
+| Módulos Alumno                      | ![Módulos Alumno](module-enrolled.png)     |
+| Módulos Docente                     | ![Módulos Docente](module-teacher.png)     |
+| Docentes auxiliares                 | ![Auxiliares](assistant-teachers.png)      |
+| Historial auxiliares                | ![Historial](assistant-teachers-history.png)|
+| Crear Evaluación                    | ![Crear Evaluación](assessments.png)       |
+| Evaluaciones Docente                | ![Evaluaciones Docente](exam-teacher.png)  |
+| Proveer Feedback                    | ![Feedback](assessment-provide-feedback.png)|
+| Entregas de Tareas                  | ![Entregas](assessment-submissions.png)    |
+| Tareas Estudiante                   | ![Tareas Estudiante](assessment-student.png)|
+| Foro                                | ![Foro](forum.png)                         |
+| Chat                                | ![Chat](chat.png)                          |
+| Notificaciones/Ajustes              | ![Ajustes](settings.png)                   |
+| Estadísticas                        | ![Estadísticas](statistics.png)            |
+
+---
+
